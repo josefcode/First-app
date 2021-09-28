@@ -66,7 +66,7 @@ function Espectadores(idade, opiniao)
       }
       let percentagem = (quaDasBom / this.lista.length)*100;
       return  percentagem.toFixed(2);
-    },
+    }
 
 };
    
